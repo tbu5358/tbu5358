@@ -20,7 +20,7 @@ Not just “ask an AI to code something,” but give agents clear roles, constra
 
 - ⚖️ [www.kanzla.de) — LangChain-based German legal AI assistant
 - 📚 [www.scriba.co.nz) — AI lecture-note product for university students
-- 📈 [[[Pulse](./projects/pulse.md](https://chromewebstore.google.com/detail/pulse-paper-trading/liljlbolainjpecpclkmnkplfgiakmfp))](https://chromewebstore.google.com/detail/liljlbolainjpecpclkmnkplfgiakmfp?utm_source=item-share-cb) — crypto paper-trading platform using real market charts
+- 📈 [(./projects/pulse.md](https://chromewebstore.google.com/detail/pulse-paper-trading/liljlbolainjpecpclkmnkplfgiakmfp))](https://chromewebstore.google.com/detail/liljlbolainjpecpclkmnkplfgiakmfp?utm_source=item-share-cb) — crypto paper-trading platform using real market charts
 - 🤖 [Agentic PRD Workflow](./projects/agentic-prd-workflow.md) — PRD-to-subagent development orchestration
 
 ---
