@@ -1,4 +1,4 @@
-# Tom Burnett
+# hi
 
 I build AI-native products and agentic development systems.
 
