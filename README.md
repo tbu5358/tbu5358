@@ -25,7 +25,7 @@ Not just “ask an AI to code something,” but give agents clear roles, constra
 
 ---
 
-##How I Build
+## How I Build
 
 I usually start with the product problem, not the tech stack.
 
@@ -45,7 +45,7 @@ Then I turn that into specs, implementation phases, agent tasks, and review loop
 
 The AI can write the code. The hard part is making sure it is building the right thing.
 
-##The Stuff I’m Most Interested In
+## The Stuff I’m Most Interested In
 
 I’m interested in the layer above raw code generation.
 
@@ -75,7 +75,7 @@ Right now I’m trying to get very good at building with AI agents.
 
 Not just using them as autocomplete, but designing workflows where they can plan, build, review, repair, and keep going.
 
-I’m especially interested in teams working on:
+## I’m especially interested in teams working on:
 
 AI products
 internal automation
