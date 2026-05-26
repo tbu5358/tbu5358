@@ -1,98 +1,39 @@
-# Hi, I'm Tom 👋
+# Tom Burnett
 
-**AI-native product builder → junior software developer**  
-Christchurch, New Zealand  
-Building with AI, LangChain, React/TypeScript, product specs, and agentic development workflows.
+**AI-native product builder working on legal AI, education AI, paper trading, and agentic development systems.**
 
-I’m a non-traditional software developer. My background is building products directly: taking rough ideas, turning them into structured specs, designing the product flow, and using AI-assisted development to ship working software.
+I build early-stage software products with a mix of product thinking, AI-assisted development, and technical specification work.
 
-Right now I’m focused on legal AI and education AI
+My background is not the traditional CS-degree-to-junior-dev path. I have spent the last year building my own products, writing implementation specs, designing AI workflows, and using coding agents to turn product ideas into working software.
 
 ---
 
 ## Start Here
 
 - ⚖️ [Kanzlo](./projects/kanzlo.md) — LangChain-based German legal AI assistant
-- 📚 [Scriba](./projects/scriba.md) — AI lecture notes for university students
+- 📚 [Scriba](./projects/scriba.md) — AI lecture-note product for university students
 - 📈 [Pulse](./projects/pulse.md) — crypto paper-trading platform using real market charts
 - 🤖 [Agentic PRD Workflow](./projects/agentic-prd-workflow.md) — PRD-to-subagent development orchestration
 
 ---
 
-## Current Focus
-
-### AI Product Systems
-
-- LangChain-based assistant workflows
-- Source-grounded AI outputs
-- RAG-style architecture
-- Matter memory and document understanding
-- Structured AI outputs for professional workflows
-
-### Agentic Development
-
-- PRD decomposition
-- Subagent orchestration
-- Spec-driven implementation
-- Amazon Bedrock AgentCore managed harness concepts
-- CLI Agent Orchestrator-style supervisor/worker workflows
-
-### Product Engineering
-
-- React / TypeScript product interfaces
-- SaaS onboarding flows
-- Dashboard UX
-- AI-assisted implementation plans
-- Technical documentation and developer handoff specs
-
----
-
-## Projects
+## What I Build
 
 ### Kanzlo
 
-LangChain-based German legal AI assistant for lawyers.
+A German legal AI assistant built around LangChain workflows.
 
-Kanzlo is designed around matter memory, source-grounded outputs, legal document understanding, and lawyer-trust UX.
+The product is focused on matter memory, source-grounded outputs, document understanding, and lawyer-trust UX. The goal is to make legal AI feel less like a chatbot and more like a structured assistant that shows what it knows, where it found it, and what still needs checking.
 
 [Read more →](./projects/kanzlo.md)
 
 ---
 
-### Scriba
-
-AI-powered lecture note product for university students.
-
-Scriba turns lecture recordings into structured notes, flashcards, study materials, and exam-prep content.
-
-[Read more →](./projects/scriba.md)
-
----
-
-### Pulse
-
-Crypto paper-trading platform using real market charts and non-real money.
-
-Pulse helps users practise entries, exits, risk management, journaling, and trading discipline without executing real trades.
-
-[Read more →](./projects/pulse.md)
-
----
-
 ### Agentic PRD-to-Subagent Workflow
 
-An AI development workflow that turns PRDs into structured implementation workstreams and assigns them to specialist subagents.
+A multi-agent development workflow that turns a product requirements document into implementation workstreams for specialist AI agents.
 
-The goal is to make AI-assisted software development more repeatable, auditable, and structured.
-
-[Read more →](./projects/agentic-prd-workflow.md)
-
----
-
-## Technical Areas
+The workflow is designed around:
 
 ```txt
-AI / LLMs      LangChain · RAG concepts · agents · structured outputs · prompt engineering
-Frontend      React · TypeScript · dashboards · SaaS UI · product flows
-Agentic Dev   PRD decomposition · subagents · spec-driven workflows · verification loops
-Product       UX design · technical specs · startup execution · user research · growth
+PRD → plan → subagents → implementation → review → verification
