@@ -6,7 +6,7 @@ Building with AI, LangChain, React/TypeScript, product specs, and agentic develo
 
 I’m a non-traditional software developer. My background is building products directly: taking rough ideas, turning them into structured specs, designing the product flow, and using AI-assisted development to ship working software.
 
-Right now I’m focused on legal AI, education AI, paper trading, and agentic software-development systems.
+Right now I’m focused on legal AI and education AI
 
 ---
 
