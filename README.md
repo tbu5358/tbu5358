@@ -3,8 +3,6 @@
 **AI-Native Product Builder / Junior Software Developer**  
 Christchurch, New Zealand  
 Email: thomasburnett97@gmail.com  
-GitHub: `github.com/yourusername`  
-Portfolio / Demos: `add links here`
 
 ---
 
