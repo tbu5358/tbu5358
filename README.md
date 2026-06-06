@@ -61,24 +61,5 @@ I think the next big shift in software is not just “AI writes code faster.”
 
 It’s that software development itself becomes a system you can design.
 
-Tools / Areas
-Agentic development   PRD decomposition, subagent orchestration, CAO-style workflows
-AI systems            LangChain, RAG-style architecture, structured outputs, agent workflows
-Product architecture  User flows, system design, data models, implementation specs
-Frontend products     React, TypeScript, SaaS interfaces, dashboards, Chrome extension flows
-Review loops          Acceptance criteria, scope control, verification passes, output review
-Current Direction
-
 Right now I’m trying to get very good at building with AI agents.
 
-Not just using them as autocomplete, but designing workflows where they can plan, build, review, repair, and keep going.
-
-## I’m especially interested in teams working on:
-
-AI products
-internal automation
-LangChain workflows
-agentic development systems
-legal tech
-education tech
-decision-support tools
