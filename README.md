@@ -45,14 +45,23 @@ Pulse lets users practise against real crypto charts using paper balances. The f
 
 ### Agentic PRD Workflow
 
-Automated PRD-to-subagent development orchestration.
+Autonomous PRD-to-implementation system.
 
-This is probably the clearest example of how I think about software development:
+This is probably the clearest example of how I think about AI-built software.
 
+It is not just a workflow that takes a PRD and breaks it into tasks. The PRD becomes a living source of truth that the system keeps updating as it runs.
 
-PRD → architecture → subagents → implementation → review → verification
+The loop looks more like this:
 
-The idea is to turn a product requirements document into structured implementation workstreams for specialist AI agents.
+PRD → issue-finding agents → proof → PRD update → task creation → orchestrators → subagents → checks → pull request
+
+The main agent can send specialist agents into the codebase to find issues, gaps, missing requirements, or broken behaviour. Those agents come back with proof, not just opinions. The main agent then updates the PRD, creates the next set of tasks, and hands them to orchestrators.
+
+The orchestrators take control of each task, spin up the right subagents, run checks, verify the implementation, and prepare the pull request for review or merge.
+
+The goal is to move beyond “ask AI to code something.”
+
+I’m interested in development systems that can keep running: finding issues, updating their own understanding of the product, creating new tasks, implementing fixes, checking their own work, and improving the software over time.
 
 ---
 
