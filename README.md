@@ -8,8 +8,6 @@ Most of my software work is built through AI agents.
 
 What I care about is not “prompting once and hoping it works.” I’m interested in long-running agent workflows: systems that can take a product spec, break it into workstreams, build against it, review their own output, find gaps, and keep iterating.
 
-A 24-hour AI review loop is exactly the kind of thing I get excited about.
-
 The goal is to make AI-built software less random.
 
 Not just “ask an AI to code something,” but give agents clear roles, constraints, files to touch, acceptance criteria, and review passes.
@@ -18,10 +16,10 @@ Not just “ask an AI to code something,” but give agents clear roles, constra
 
 ## What I’m Building
 
-- ⚖️ [www.kanzla.de) — LangChain-based German legal AI assistant
-- 📚 [www.scriba.co.nz) — AI lecture-note product for university students
-- 📈 [https://chromewebstore.google.com/detail/pulse-paper-trading/liljlbolainjpecpclkmnkplfgiakmfp—](https://chromewebstore.google.com/detail/liljlbolainjpecpclkmnkplfgiakmfp?utm_source=item-share-cb) crypto paper-trading platform using real market charts
-- 🤖 [Agentic PRD Workflow](./projects/agentic-prd-workflow.md) — PRD-to-subagent development orchestration
+-  Kanzla — LangChain-based German legal AI assistant
+-  [www.scriba.co.nz) — AI lecture-note product for university students
+- [https://chromewebstore.google.com/detail/pulse-paper-trading/liljlbolainjpecpclkmnkplfgiakmfp—](https://chromewebstore.google.com/detail/liljlbolainjpecpclkmnkplfgiakmfp?utm_source=item-share-cb) crypto paper-trading platform using real market charts
+- Agentic PRD Workflow — Automated PRD-to-subagent development orchestration
 
 ---
 
