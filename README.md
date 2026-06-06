@@ -1,7 +1,5 @@
 # hi
 
-````md
-# Tom Burnett
 
 I build AI-native products and agentic development systems.
 
@@ -51,9 +49,8 @@ Automated PRD-to-subagent development orchestration.
 
 This is probably the clearest example of how I think about software development:
 
-```txt
+
 PRD → architecture → subagents → implementation → review → verification
-````
 
 The idea is to turn a product requirements document into structured implementation workstreams for specialist AI agents.
 
