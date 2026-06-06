@@ -1,11 +1,14 @@
 # hi
 
+I build AI-native products and agentic development systems.
 
-I'm Tom I build AI-native products and agentic development systems. I’m not a traditional software developer. I don’t primarily build by writing code line by line. My work is figuring out what should be built, turning that into a clear spec, and using AI agents as the implementation layer.
+My work sits at the layer between product, system design, and AI-driven implementation. I take rough product ideas and turn them into clear specs, workflows, agent tasks, review loops, and working software.
 
-Most of my software work is built through AI agents. What I care about is not “prompting once and hoping it works.” I’m interested in long-running agent workflows: systems that can take a product spec, break it into workstreams, build against it, review their own output, find gaps, and keep iterating.
+I’m especially interested in long-running agent workflows.
 
-The goal is to make AI-built software less random. Not just “ask an AI to code something,” but give agents clear roles, constraints, files to touch, acceptance criteria, and review passes.
+Not “prompt once and hope it works,” but systems that can take a product spec, break it into workstreams, inspect the codebase, find issues with evidence, update the PRD, create tasks, spin up specialist agents, run checks, and prepare pull requests.
+
+The goal is to make AI-built software less random and more accountable.
 
 ---
 
