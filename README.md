@@ -110,12 +110,6 @@ Right now I’m trying to get very good at building with AI agents.
 
 ---
 
-## Contact
-
-Tom Burnett
-Christchurch, New Zealand
-Email: [thomasburnett97@gmail.com](mailto:thomasburnett97@gmail.com)
-
 ```
 ```
 
