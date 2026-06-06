@@ -17,32 +17,6 @@ Not just “ask an AI to code something,” but give agents clear roles, constra
 
 ## What I’m Building
 
-### Kanzlo
-
-LangChain-based legal-tech application for German legal workflows.
-
-Kanzlo is built around document understanding, matter memory, source-grounded answers, drafting support, and lawyer review controls.
-
-The interesting problem is trust. In legal work, the AI cannot just sound confident. It needs to show what it relied on, where the information came from, and what still needs to be checked.
-
----
-
-### [Scriba](https://www.scriba.co.nz/)
-
-AI lecture-note product for university students.
-
-Scriba turns lecture recordings into structured notes, summaries, flashcards, and study material. The product is built around the real student workflow: capture the lecture, process it, turn it into something useful, and make revision easier.
-
----
-
-### [Pulse Paper Trading](https://chromewebstore.google.com/detail/pulse-paper-trading/liljlbolainjpecpclkmnkplfgiakmfp)
-
-Crypto paper-trading platform using real market charts.
-
-Pulse lets users practise against real crypto charts using paper balances. The focus is entries, exits, PnL tracking, trade history, and performance review without real-money execution.
-
----
-
 ### Agentic PRD Workflow
 
 Autonomous PRD-to-implementation system.
@@ -62,6 +36,33 @@ The orchestrators take control of each task, spin up the right subagents, run ch
 The goal is to move beyond “ask AI to code something.”
 
 I’m interested in development systems that can keep running: finding issues, updating their own understanding of the product, creating new tasks, implementing fixes, checking their own work, and improving the software over time.
+
+
+---
+
+### [Scriba](https://www.scriba.co.nz/)
+
+AI lecture-note product for university students.
+
+Scriba turns lecture recordings into structured notes, summaries, flashcards, and study material. The product is built around the real student workflow: capture the lecture, process it, turn it into something useful, and make revision easier.
+
+---
+
+### Kanzlo
+
+LangChain-based legal-tech application for German legal workflows.
+
+Kanzlo is built around document understanding, matter memory, source-grounded answers, drafting support, and lawyer review controls.
+
+The interesting problem is trust. In legal work, the AI cannot just sound confident. It needs to show what it relied on, where the information came from, and what still needs to be checked.
+
+---
+
+### [Pulse Paper Trading](https://chromewebstore.google.com/detail/pulse-paper-trading/liljlbolainjpecpclkmnkplfgiakmfp)
+
+Crypto paper-trading platform using real market charts.
+
+Pulse lets users practise against real crypto charts using paper balances. The focus is entries, exits, PnL tracking, trade history, and performance review without real-money execution.
 
 ---
 
